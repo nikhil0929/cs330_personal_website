@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nikhil0929/cs330_personal_website/static/css/main.391d7fb1.css",
+    "main.js": "/nikhil0929/cs330_personal_website/static/js/main.e34e2963.js",
+    "static/js/787.7dc08e59.chunk.js": "/nikhil0929/cs330_personal_website/static/js/787.7dc08e59.chunk.js",
+    "static/media/nikhil_cropped.jpg": "/nikhil0929/cs330_personal_website/static/media/nikhil_cropped.864ebda35e9d72623d2a.jpg",
+    "static/media/Nikhil_Aggarwal_Resume.pdf": "/nikhil0929/cs330_personal_website/static/media/Nikhil_Aggarwal_Resume.cb79116b2f7f08fc20a6.pdf",
+    "index.html": "/nikhil0929/cs330_personal_website/index.html",
+    "main.391d7fb1.css.map": "/nikhil0929/cs330_personal_website/static/css/main.391d7fb1.css.map",
+    "main.e34e2963.js.map": "/nikhil0929/cs330_personal_website/static/js/main.e34e2963.js.map",
+    "787.7dc08e59.chunk.js.map": "/nikhil0929/cs330_personal_website/static/js/787.7dc08e59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391d7fb1.css",
+    "static/js/main.e34e2963.js"
+  ]
+}
